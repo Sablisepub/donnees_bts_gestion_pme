@@ -1,0 +1,11 @@
+{
+  "formation": "BTS Gestion de la PME",
+  "etablissement": "Nom de l'établissement",
+  "ville": "Nom de la ville",
+  "departement": "Numéro du département",
+  "places": 20,
+  "presentation": "Présentation de la formation",
+  "en_emploi": 10,
+  "poursuite_formation": 5,
+  "autre_parcours": 5
+}
